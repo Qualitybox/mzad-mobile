@@ -1,0 +1,10 @@
+*.xml
+.project
+.pydevproject
+libspecs/
+Reports/
+__pycache__
+*.html
+*.jpg
+*.png
+*.pyc
